@@ -1,5 +1,5 @@
 # MovieGallery
-This is a final WEB programming course's project at Turku UAS
+This is a final WEB programming course project at Turku UAS
 
 This project is a simple website which represents the gallery of movies and actors. 
 
