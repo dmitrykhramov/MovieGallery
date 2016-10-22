@@ -11,6 +11,7 @@ The aim of the project was to demonstrate skills gained after finish Web-program
 - database (mysql)
 
 There are three types of users:
+
 1. Basic user
 2. Registered user
 3. Admin
